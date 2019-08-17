@@ -1,0 +1,97 @@
+{
+ 
+
+ "client":[
+	  {
+	 "id":"1",	  
+	 "name":"wasim",
+	 "age":24,
+	 "cellno":"0344354354",
+	 "email":"wasim@gmail.com",
+	 "address":"home town newyork",
+	 "job_title":"software engineer"
+   },
+  {
+	 "id":"2",
+	 "name":"Akram",
+	 "age":28,
+	 "cellno":"0344354354",
+	 "email":"akram@gmail.com",
+	 "address":"home town newyork",
+	 "job_title":"software engineer"
+  },
+  {
+	 "id":"3",
+	 "name":"zafar",
+	 "age":23,
+	 "cellno":"0344354354",
+	 "email":"zafar@gmail.com",
+	 "address":"home town newyork",
+	 "job_title":"software engineer"
+  },
+ {  
+	 "id":"4",
+	 "name":"fahim",
+	 "age":24,
+	 "cellno":"0344354354",
+	 "email":"fahim@gmail.com",
+	 "address":"home town newyork",
+	 "job_title":"software engineer"
+  },
+  {
+	 "id":"5",
+	 "name":"danial",
+	 "age":24,
+	 "cellno":"0344354354",
+	 "email":"danial@gmail.com",
+	 "address":"home town newyork",
+	 "job_title":"software engineer"
+  },
+  {
+	 "id":"6",
+	 "name":"waqar",
+	 "age":24,
+	 "cellno":"0344354354",
+	 "email":"waqar@gmail.com",
+	 "address":"home town newyork",
+	 "job_title":"software engineer"
+  },
+  {
+	 "id":"7",
+	 "name":"amjad",
+	 "age":24,
+	 "cellno":"0344354354",
+	 "email":"amjad@gmail.com",
+	 "address":"home town newyork",
+	 "job_title":"software engineer"
+   },
+   {
+	 "id":"8",
+	 "name":"rashid",
+	 "age":24,
+	 "cellno":"0344354354",
+	 "email":"rashid@gmail.com",
+	 "address":"home town newyork",
+	 "job_title":"software engineer"
+   },
+   {
+	 "id":"9",
+	 "name":"junaid",
+	 "age":29,
+	 "cellno":"0344354354",
+	 "email":"junaid@gmail.com",
+	 "address":"home town newyork",
+	 "job_title":"software engineer"
+   },
+   {
+	 "id":"10",
+	 "name":"danish",
+	 "age":30,
+	 "cellno":"0344354354",
+	 "email":"danish@gmail.com",
+	 "address":"home town newyork",
+	 "job_title":"software engineer"
+   }
+]
+  
+}
